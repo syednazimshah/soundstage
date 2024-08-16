@@ -8,7 +8,7 @@ The app is non-functional due to server shutdown. All images shown are copyright
 Soundstage is text-to-speech web application that can realistic, lifelike audio from diverse textual content, including narratives and scripts. The platform enables automatic gender and emotions identification within text, which allows voice segregation, delivering tailored audio experiences based on text content.
 
 # Explanation
-The project was developed using Flutter for Web, Firebase, and Google Cloud. The backend of the application and the communications APIs were built with Flask in Python. The sound generation API utilized NLP to create a gender segregated, and emotion inflicted text script which was then converted to sound using ElevenLabs API.
+The project was developed using Flutter for Web, Firebase, and Google Cloud. The backend of the application and the communications APIs were built with Flask in Python. The sound generation API utilized NLP to create a gender segregated, and emotion inflicted text script from the input text which was then converted to sound using ElevenLabs API.
 
 # Project Screenshots
 
